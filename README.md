@@ -17,7 +17,7 @@ A Flutter application that uses Riverpod for state management to fetch data from
 ### Shimmer Loading Effect
 ![Shimmer Loading Effect](https://github.com/Priya129/riverpodexample/blob/main/shimmereffect.jpg)
 
-*Note: Replace the above image paths with the correct paths once screenshots are added.*
+
 
 ## Getting Started
 
