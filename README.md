@@ -12,10 +12,10 @@ A Flutter application that uses Riverpod for state management to fetch data from
 ## Screenshots
 
 ### Home Screen with Pokémon Grid
-![Pokémon Grid View](screenshots/grid_view.png)
+![Pokémon Grid View](https://github.com/Priya129/riverpodexample/blob/main/pagegridview.jpg)
 
 ### Shimmer Loading Effect
-![Shimmer Loading Effect](screenshots/shimmer_effect.png)
+![Shimmer Loading Effect](https://github.com/Priya129/riverpodexample/blob/main/shimmereffect.jpg)
 
 *Note: Replace the above image paths with the correct paths once screenshots are added.*
 
@@ -26,7 +26,4 @@ A Flutter application that uses Riverpod for state management to fetch data from
 - [Riverpod](https://riverpod.dev/) for state management
 - [Shimmer Package](https://pub.dev/packages/shimmer) for loading effects
 
-### Installation
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/RiverpodPokeAPI.git
+
