@@ -1,16 +1,7 @@
-# example1
+A Flutter application that uses Riverpod for state management to fetch data from the PokeAPI and displays the list of Pokémon in a GridView with a shimmer loading effect. The app demonstrates clean architecture principles, asynchronous data fetching, and responsive UI with Flutter.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Features
+Fetches data from the PokeAPI using Riverpod's FutureProvider.
+Displays Pokémon in a GridView layout.
+Uses shimmer loading effect while fetching data.
+Simple, responsive, and clean UI.
